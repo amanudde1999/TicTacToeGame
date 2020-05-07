@@ -1,5 +1,4 @@
 // TIC TAC TOE Game to be played on an Arduino TFT Screen either against a computer or against a friend.
-//  			(° ͜ʖ°)
 // 							¯\_(ツ)_/¯
 
 #include <Arduino.h>
